@@ -1,0 +1,6 @@
+{
+  "host_map": [
+    "$.mindtree.com => www.mindtree.com",
+    "$.mindtree.com => mindtree.com"
+  ]
+}

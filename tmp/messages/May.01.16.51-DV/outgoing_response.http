@@ -1,0 +1,687 @@
+HTTP/1.1 200 OK
+Date: Thu, 01 May 2014 20:51:03 GMT
+Server: Apache/2.2.15 (Red Hat)
+X-Powered-By: PHP/5.3.3
+X-Drupal-Cache: HIT
+Content-Language: en
+Link: <http://www.mindtree.com/>; rel="canonical",</node/442>; rel="shortlink"
+Cache-Control: private, must-revalidate
+Last-Modified: Thu, 01 May 2014 20:44:41 +0000
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+Vary: Accept-Encoding
+Content-Length: 41700
+X-Q-S: 200000158000143000008
+X-M-V: 5.0.147
+X-S-V: local/Mindtree 
+X-I-V: /
+X-M-P: true
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
+<script data-keep="true" type="text/javascript" src="//mlocal.mindtree.com/_moovweb_local_assets_/javascript/main.js"></script><script type="text/javascript" src="http://www.mindtree.com/url_redirect.js"></script><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="alexa-verification-code" content="0bSeUNB1r8NjfyCue6itWqc90zU">
+<meta name="google-site-verification" content="ehbjAdQmw5q-_Ddx1DZoqNCHdVfa8UYsWxSsxdwBy6o">
+<meta name="apple-mobile-web-app-title" content="Mindtree">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta property="twitter:card" content="summary">
+<link rel="canonical" href="http://www.mindtree.com/">
+<meta property="twitter:title" content="Mindtree">
+<meta property="twitter:url" content="http://www.mindtree.com/home">
+<link rel="shortcut icon" href="http://www.mindtree.com/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon">
+<meta property="twitter:creator" content="@Mindtree_Ltd">
+<meta name="keywords" content="corporate it services, technology consulting firms">
+<meta name="description" content="Mindtree is a global information technology consulting firm specializing in corporate IT services and solutions. Welcome to Possible.">
+<meta property="og:title" content="Welcome to possible">
+<link rel="shortlink" href="/node/442">
+<meta property="og:description" content="Mindtree delivers technology services and accelerates growth for Global 1000 companies by solving complex business challenges with breakthrough technical innovations. Mindtree specializes in e-commerc">
+<meta property="og:image" content="http://www.mindtree.com/sites/default/files/Mindtree_Logo.png">
+<meta property="og:url" content="http://www.mindtree.com/home">
+<meta property="og:site_name" content="Mindtree">
+<link href="https://plus.google.com/+mindtree" rel="publisher">
+<link href="http://www.mindtree.com/sites/all/themes/mindtree/images/icon_57x57.png" rel="apple-touch-icon">
+<link href="http://www.mindtree.com/sites/all/themes/mindtree/images/icon_72x72.png" rel="apple-touch-icon" sizes="72x72">
+<link href="http://www.mindtree.com/sites/all/themes/mindtree/images/icon_114x114.png" rel="apple-touch-icon" sizes="114x114">
+<link href="http://www.mindtree.com/sites/all/themes/mindtree/images/icon_144x144.png" rel="apple-touch-icon" sizes="144x144">
+<title>Mindtree | Corporate IT Services &amp; Technology Consulting</title>
+<link type="text/css" rel="stylesheet" href="http://www.mindtree.com/sites/default/files/css/css_8o5G5-W_55w7EblEqWVYEI1acWgeAcvrkJXTg_cRr2o.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.mindtree.com/sites/default/files/css/css_fD0PpDCiPDCDO5kiRyFGaNBBmUgSQHXcD671lX9dU3c.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.mindtree.com/sites/default/files/css/css_Byjzy12JS5pg-51oSCf15Jm7tC_ZNlsp5wrvAt-L4eU.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.mindtree.com/sites/default/files/css/css_Qj154YpxDBtNEuVjCrAZnBcoEuYBPVU_gC0pCZqJJMo.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.mindtree.com/sites/default/files/css/css_Ka0fC9m3s3NmRnC34PbtbL12RC79g3-h_tVIk-JNAt4.css" media="all">
+<script type="text/javascript" src="http://www.mindtree.com/sites/default/files/js/js_3jHghlMLrjr9xXAC0JufqSSch3oAbkZstSqYdc4uuck.js"></script><script type="text/javascript" src="http://www.mindtree.com/sites/default/files/js/js_1XZdsur5GWAE5PEtt4jcmZ3obFnIo348bKP1rZcPv-A.js"></script><script type="text/javascript" src="http://www.mindtree.com/sites/default/files/js/js_PfWV7G1sgb50ZBU3Z5vCv18B3vEc4RaMJAHdEufn5UQ.js"></script><script type="text/javascript" src="http://www.mindtree.com/sites/default/files/js/js_NQ89SrTNdEGe8zj-JEL_5fGBuv7AbzkPQQdeCp6-w14.js"></script><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function(){	 
+	jQuery("#home_banner_slider").anythingSlider({ expand:true, buildArrows : true, enableArrows : true});
+	jQuery("#meetOurMindsSlider").anythingSlider({		
+		delay : 20000, expand:true, resumeDelay : 2000, animationTime : 2000, delayBeforeAnimate : 0, buildArrows : false, buildNavigation : true, buildStartStop : false });
+		  jQuery("#hometestslider").anythingSlider({
+	  mode: "horiz", expand:true, buildArrows : false ,autoPlay            : false, enableArrows : true });
+		
+	
+});
+
+
+
+//--><!]]>
+</script><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"mindtree","theme_token":"xMhFAcUVN9cSS1UNCKaZPzhALyrG9BUTrN7JVjSMzsw","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/simplenews\/simplenews.css":1,"sites\/all\/modules\/ajax_links_api\/files\/ajax_links_api.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/libraries\/colorbox\/example3\/colorbox.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/webform\/css\/webform.css":1,"modules\/locale\/locale.css":1,"sites\/all\/themes\/mindtree\/css\/mindtree_base.css":1,"sites\/all\/themes\/mindtree\/css\/anythingslider.css":1,"sites\/all\/themes\/mindtree\/css\/responsive.css":1,"sites\/default\/files\/fontyourface\/font.css":1,"public:\/\/fontyourface\/local_fonts\/Aller_Light-normal-normal\/stylesheet.css":1,"public:\/\/fontyourface\/local_fonts\/Aller-normal-normal\/stylesheet.css":1},"js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/ajax_links_api\/files\/ajax_links_api.js":1,"sites\/all\/libraries\/colorbox\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"misc\/textarea.js":1,"sites\/all\/modules\/webform\/js\/webform.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/themes\/mindtree\/js\/master.js":1,"sites\/all\/themes\/mindtree\/js\/jwplayer.js":1,"sites\/all\/themes\/mindtree\/js\/jquery.anythingslider.js":1,"sites\/all\/themes\/mindtree\/js\/responsive.js":1,"0":1}},"colorbox":{"transition":"none","speed":"350","opacity":"0.85","slideshow":false,"slideshowAuto":false,"slideshowSpeed":"2500","slideshowStart":"start","slideshowStop":"stop","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"100%","maxHeight":"100%","initialWidth":"300","initialHeight":"100","fixed":true,"scrolling":true,"__drupal_alter_by_ref":["sites\/all\/libraries\/colorbox\/example3"]},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:b3976ab7c6eaada6038214941d7ca7e0":{"view_name":"annual_report","view_display_id":"block","view_args":"","view_path":"node\/442","view_base_path":null,"view_dom_id":"b3976ab7c6eaada6038214941d7ca7e0","pager_element":0},"views_dom_id:ce6a338afebe82e668a7d7c762ecd3e8":{"view_name":"webinar","view_display_id":"innerpage_webinar_rhs","view_args":"442","view_path":"node\/442","view_base_path":"webinars\/%","view_dom_id":"ce6a338afebe82e668a7d7c762ecd3e8","pager_element":0}}},"ajax":{"edit-webform-ajax-submit-1020":{"callback":"webform_1020_submit","wrapper":"webform-client-form-1020","method":"replaceWith","effect":"fade","event":"mousedown","keypress":true,"prevent":"click","url":"\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Submit"}},"edit-webform-ajax-submit-1120":{"callback":"webform_ajax_callback","wrapper":"webform-ajax-wrapper-1120","progress":{"message":"","type":"throbber"},"event":"mousedown","keypress":true,"prevent":"click","url":"\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Submit"}}}});
+//--><!]]>
+</script><link rel="shortcut icon" href="//mlocal.mindtree.com/_moovweb_local_assets_/images/favicon.ico">
+<link rel="apple-touch-icon" href="//mlocal.mindtree.com/_moovweb_local_assets_/images/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" href="//mlocal.mindtree.com/_moovweb_local_assets_/images/apple-touch-icon-114x114.png">
+<link rel="stylesheet" type="text/css" href="//mlocal.mindtree.com/_moovweb_local_assets_/stylesheets/.css/main.css" data-mw-keep="true">
+</head>
+<body class="html front not-logged-in no-sidebars page-node page-node- page-node-442 node-type-home-page-content i18n-en">
+
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+ 
+<div class="home_header_outer1">
+  <div class="header1">
+    <div class="header_top">
+      <div class="logo_holder"><a href="/">
+                <img src="http://www.mindtree.com/sites/default/files/mindtree-logo.png" alt="Mindtree" title="Mindtree" id="logo" width="175" height="46"></a></div>
+      <div class="top_menu">        
+         <div class="top_header_search_container">
+<div class="top_header_search_container_trigger"></div>  <div class="region region-search">
+     <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+ 
+    <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div>
+<div class="container-inline">
+     
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text">
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div>
+<input type="hidden" name="form_build_id" value="form-PXHSVfySh3c5ZRzkeD50dbCv1CxLzKHOk3HtQIpKoXo"><input type="hidden" name="form_id" value="search_block_form">
+</div>
+</div></form>  
+  </div>
+</div>
+    </div>
+ </div>
+         <div class="top_header_lang_container">  <div class="region region-languageswitcher">
+     <div id="block-locale-language" class="block block-locale">
+
+    <p class="h2_tag">Languages</p>
+  
+  <div class="content">
+ 
+    <ul class="language-switcher-locale-url">
+<li class="nl first"><a href="/nl" class="language-link"><img class="language-icon" src="http://www.mindtree.com/sites/all/modules/languageicons/flags/nl.png" width="16" height="12" alt="Dutch" title="Dutch"> Dutch</a></li>
+<li class="en active"><a href="/" class="language-link active"><img class="language-icon" src="http://www.mindtree.com/sites/all/modules/languageicons/flags/en.png" width="16" height="12" alt="English" title="English"> English</a></li>
+<li class="fr"><a href="/fr" class="language-link"><img class="language-icon" src="http://www.mindtree.com/sites/all/modules/languageicons/flags/fr.png" width="16" height="12" alt="Français" title="Français"> Français</a></li>
+<li class="de last"><a href="/de" class="language-link"><img class="language-icon" src="http://www.mindtree.com/sites/all/modules/languageicons/flags/de.png" width="16" height="12" alt="German" title="German"> German</a></li>
+</ul>
+</div>
+</div>
+    </div>
+</div>
+         <div class="top_header_menus_container">  <div class="region region-header">
+     <div id="block-menu-menu-top-menu" class="block block-menu">
+
+    <p class="h2_tag">Top Menu</p>
+  
+  <div class="content">
+ 
+    <ul class="menu">
+<li class="first leaf"><a href="/company/investors">Investors</a></li>
+<li class="leaf"><a href="/company/news" title="">News</a></li>
+<li class="leaf"><a href="http://www.careers.mindtree.com/" title="">Careers</a></li>
+<li class="last leaf"><a href="/contact-us" title="">Contact us</a></li>
+</ul>
+</div>
+</div>
+    </div>
+ <div class="top_header_menus_container_trigger"></div>
+</div>
+      </div>
+      <div class="clear_both for_main_menu_trigger"></div>
+      <div class="main_menu_trigger">
+<span>Menu</span> <div class="main_menu_triggering_button"></div>
+<div class="clear_both"></div>
+</div>
+      <div class="main_menu">
+          <div class="region region-menu-bar">
+     <div id="block-mainmenu-taxonomy-menu" class="block block-mainmenu">
+
+    
+  <div class="content">
+ 
+    <ul class="nice-menu nice-menu-down">
+<li class="collapsed ">
+<a href="#">Services</a><ul class="nice-menu nice-menu-down">
+<li class=""><a href="/services/agile">Agile</a></li>
+<li class=""><a href="/services/analytics-and-information-management">Analytics and information management</a></li>
+<li class=""><a href="/services/application-development-and-maintenance">Application development and maintenance</a></li>
+<li class=""><a href="/services/cloud">Cloud</a></li>
+<li class=""><a href="/services/consulting-services">Consulting services</a></li>
+<li class=""><a href="/services/digital-business">Digital business</a></li>
+<li class=""><a href="/services/eai-bpm">EAI BPM</a></li>
+<li class=""><a href="/services/engineering-research-development">Engineering Research &amp; Development</a></li>
+<li class=""><a href="/services/independent-testing">Independent testing</a></li>
+<li class=""><a href="/services/infrastructure-management-services">Infrastructure management services</a></li>
+<li class=""><a href="/services/mainframe-and-midrange">Mainframe and Midrange</a></li>
+<li class=""><a href="/services/mobility">Mobility</a></li>
+<li class=""><a href="/services/packaged-solutions">Packaged Solutions</a></li>
+<li class=""><a href="/services/sap-services">SAP services</a></li>
+<li class=""><a href="/services/technologies">Technologies</a></li>
+</ul>
+</li>
+<li class="collapsed ">
+<a href="#">Industries</a><ul class="nice-menu nice-menu-down">
+<li class=""><a href="/industries/banking">Banking</a></li>
+<li class=""><a href="/industries/capital-markets">Capital markets</a></li>
+<li class=""><a href="/industries/consumer-and-communications">Consumer and communications</a></li>
+<li class=""><a href="/industries/consumer-packaged-goods">Consumer packaged goods</a></li>
+<li class=""><a href="/industries/independent-software-vendors">Independent software vendors</a></li>
+<li class=""><a href="/industries/industrial-manufacturing">Industrial Manufacturing</a></li>
+<li class=""><a href="/industries/insurance">Insurance</a></li>
+<li class=""><a href="/industries/manufacturing">Manufacturing</a></li>
+<li class=""><a href="/industries/media-and-entertainment">Media and entertainment</a></li>
+<li class=""><a href="/industries/retail">Retail</a></li>
+<li class=""><a href="/industries/travel-transportation">Travel &amp; Transportation</a></li>
+</ul>
+</li>
+<li class="collapsed ">
+<a href="#">Solutions</a><ul class="nice-menu nice-menu-down">
+<li class=""><a href="/solutions/bluetooth">Bluetooth</a></li>
+<li class=""><a href="/solutions/corporate-lending">Corporate lending</a></li>
+<li class=""><a href="/solutions/digital-video-surveillance">Digital video surveillance</a></li>
+<li class=""><a href="/solutions/mindtest">MindTest</a></li>
+<li class=""><a href="/solutions/mkonnect">mKonnect</a></li>
+<li class=""><a href="/solutions/mpromo">mPromo</a></li>
+<li class=""><a href="/solutions/msales">mSales</a></li>
+<li class=""><a href="/solutions/mwatch">MWatch</a></li>
+<li class=""><a href="/solutions/integrated-customer-insights">Integrated customer insights</a></li>
+<li class=""><a href="/solutions/omni-channel-service-orchestration">Omni channel service orchestration</a></li>
+<li class=""><a href="/solutions/store-portal">Store Portal</a></li>
+<li class=""><a href="/solutions/sitesmart">SITEsMART</a></li>
+<li class=""><a href="/solutions/secondary-sales-platform">Secondary sales platform</a></li>
+<li class=""><a href="http://www.vmunify.com" target="_blank">VMUnify</a></li>
+</ul>
+</li>
+<li class="collapsed ">
+<a href="#">Insights</a><ul class="nice-menu nice-menu-down">
+<li class=""><a href="http://www.blogs.mindtree.com" target="_blank">Blogs</a></li>
+<li class=""><a href="/insights/brochures">Brochures</a></li>
+<li class=""><a href="http://www.community.mindtree.com" target="_blank">Communities</a></li>
+<li class=""><a href="/insights/data-sheets">Data sheets</a></li>
+<li class=""><a href="/insights/success-stories">Success stories</a></li>
+<li class=""><a href="/insights/thought-posts">Thought posts</a></li>
+<li class=""><a href="/insights/videos">Videos</a></li>
+</ul>
+</li>
+<li class="collapsed ">
+<a href="#">Company</a><ul class="nice-menu nice-menu-down">
+<li class=""><a href="/company/about-us">About us</a></li>
+<li class=""><a href="/company/our-mission">Our mission</a></li>
+<li class=""><a href="/company/our-values">Our values</a></li>
+<li class=""><a href="/company/mindtree-edge">Mindtree edge</a></li>
+<li class=""><a href="/company/board-directors">Board of directors</a></li>
+<li class=""><a href="/company/management-team">Management team</a></li>
+<li class=""><a href="/company/investors">Investors</a></li>
+<li class=""><a href="/company/corporate-governance">Corporate governance</a></li>
+<li class=""><a href="/company/usdc-gainesville">USDC Gainesville</a></li>
+<li class=""><a href="/company/alliances">Alliances</a></li>
+<li class=""><a href="/company/awards-and-achievements">Awards and achievements</a></li>
+<li class=""><a href="http://www.mindtreefoundation.org" target="_blank">Mindtree foundation</a></li>
+<li class=""><a href="/company/news">News</a></li>
+<li class=""><a href="/company/media-kit">Media kit</a></li>
+<li class=""><a href="/company/mindtree-newsletters">Mindtree newsletters</a></li>
+<li class=""><a href="/company/events">Events</a></li>
+<li class=""><a href="/company/webinars">Webinars</a></li>
+<li class=""><a href="/social">Social media</a></li>
+<li class=""><a href="/company/sustainability">Sustainability</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+    </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="clear_both for_main_menu_trigger"></div>     
+<div class="home_header_outer2">
+  <div class="header2">   
+      <div class="region region-home-banner">
+     <div id="block-views-home-page-banner" class="block block-views">
+
+    
+  <div class="content">
+ 
+    <div class="view view-home-page view-id-home_page view-display-id-banner view-dom-id-362cb777eec69187b1f0ae69545e6b0b">
+        
+  
+  
+      <div class="view-content">
+      <ul id="home_banner_slider">
+<li>
+  <div class="banner_container">
+    <div class="banner_left">
+      <div class="welcome_msg"><img src="/sites/all/themes/mindtree/images/welcome_to_possible.png" width="155" height="18"></div>
+      
+      <div class="home_banner_txt_cotainer">
+         	  <a href="http://mlocal.mindtree.com/ecommerce-award" class="readmore_arrow_big">
+	  <div class="banner_big_msg">
+          <div class="home_banner_big_msg_highlight"> <p>Launch of inaugural<br>e-commerce award</p>
+                      </div>
+        </div>
+	  <div class="banner_normal_txt">	 Submit your entry today          <img src="/sites/all/themes/mindtree/images/readmore_arrow.png" width="9" height="9">
+</div>
+	  
+          
+	
+	 </a>
+               </div>
+      
+    </div>
+    <div class="banner_right home_banner_right"><div class="field-content"><img src="http://www.mindtree.com/sites/default/files/ecommerce-award-banner.jpg" width="602" height="350" alt=""></div></div>
+  </div>
+</li>
+ <li>
+  <div class="banner_container">
+    <div class="banner_left">
+      <div class="welcome_msg"><img src="/sites/all/themes/mindtree/images/welcome_to_possible.png" width="155" height="18"></div>
+      
+      <div class="home_banner_txt_cotainer">
+         	  <a href="http://mlocal.mindtree.com/company/awards-and-achievements/most-promising-company-of-the-year-award-cnbc-tv18" class="readmore_arrow_big">
+	  <div class="banner_big_msg">
+          <div class="home_banner_big_msg_highlight"> <p>The most promising company of the year</p>
+                      </div>
+        </div>
+	  <div class="banner_normal_txt">CNBC-TV18 India Business Leader Awards 2013	           <img src="/sites/all/themes/mindtree/images/readmore_arrow.png" width="9" height="9">
+</div>
+	  
+          
+	
+	 </a>
+               </div>
+      
+    </div>
+    <div class="banner_right home_banner_right"><div class="field-content"><img src="http://www.mindtree.com/sites/default/files/most-promising-company-banner-image.jpg" width="602" height="350" alt=""></div></div>
+  </div>
+</li>
+ <li>
+  <div class="banner_container">
+    <div class="banner_left">
+      <div class="welcome_msg"><img src="/sites/all/themes/mindtree/images/welcome_to_possible.png" width="155" height="18"></div>
+      
+      <div class="home_banner_txt_cotainer">
+         	  <a href="http://mlocal.mindtree.com/insights/videos/mwatch" class="readmore_arrow_big">
+	  <div class="banner_big_msg">
+          <div class="home_banner_big_msg_highlight"> <p>Intelligent monitoring of your IT infrastructure</p>
+                      </div>
+        </div>
+	  <div class="banner_normal_txt">ITIL based integrated IT infrastructure management and secured service delivery platform.	           <img src="/sites/all/themes/mindtree/images/readmore_arrow.png" width="9" height="9">
+</div>
+	  
+          
+	
+	 </a>
+               </div>
+      
+    </div>
+    <div class="banner_right home_banner_right"><div class="field-content"><img src="http://www.mindtree.com/sites/default/files/mwatch-banner.jpg" width="602" height="350" alt="Intelligent monitoring and management of your IT infrastructure."></div></div>
+  </div>
+</li>
+ <li>
+  <div class="banner_container">
+    <div class="banner_left">
+      <div class="welcome_msg"><img src="/sites/all/themes/mindtree/images/welcome_to_possible.png" width="155" height="18"></div>
+      
+      <div class="home_banner_txt_cotainer">
+         	  <a href="http://mlocal.mindtree.com/company/awards-and-achievements/zinnov-global-rd-service-provider-rating-2013" class="readmore_arrow_big">
+	  <div class="banner_big_msg">
+          <div class="home_banner_big_msg_highlight"> <p>Mindtree in the Leadership zone</p>
+                      </div>
+        </div>
+	  <div class="banner_normal_txt">	 Mindtree named in top quadrant in Zinnov 2013 Global Service Providers Ratings          <img src="/sites/all/themes/mindtree/images/readmore_arrow.png" width="9" height="9">
+</div>
+	  
+          
+	
+	 </a>
+               </div>
+      
+    </div>
+    <div class="banner_right home_banner_right"><div class="field-content"><img src="http://www.mindtree.com/sites/default/files/zinnov-global-service-provider-banner.jpg" width="602" height="350" alt=""></div></div>
+  </div>
+</li>
+ <li>
+  <div class="banner_container">
+    <div class="banner_left">
+      <div class="welcome_msg"><img src="/sites/all/themes/mindtree/images/welcome_to_possible.png" width="155" height="18"></div>
+      
+      <div class="home_banner_txt_cotainer">
+         	  <a href="http://mlocal.mindtree.com/insights/success-stories/innovative-migration-solution-ensured-safety-over-100-million-passengers" class="readmore_arrow_big">
+	  <div class="banner_big_msg">
+          <div class="home_banner_big_msg_highlight"> <p>100 million passengers fly safe</p>
+                      </div>
+        </div>
+	  <div class="banner_normal_txt">Flight planning system.<br>Global air transport solutions provider.<br>180+ airlines. 15000+ flight plans	           <img src="/sites/all/themes/mindtree/images/readmore_arrow.png" width="9" height="9">
+</div>
+	  
+          
+	
+	 </a>
+               </div>
+      
+    </div>
+    <div class="banner_right home_banner_right"><div class="field-content"><img src="http://www.mindtree.com/sites/default/files/flight-planning-system-home-banner.jpg" width="602" height="350" alt="100 million passengers fly safe"></div></div>
+  </div>
+</li>
+ <li>
+  <div class="banner_container">
+    <div class="banner_left">
+      <div class="welcome_msg"><img src="/sites/all/themes/mindtree/images/welcome_to_possible.png" width="155" height="18"></div>
+      
+      <div class="home_banner_txt_cotainer">
+         	  <a href="http://mlocal.mindtree.com/insights/success-stories/unified-brand-message-and-improved-consumer-engagement-fortune-10-consumer" class="readmore_arrow_big">
+	  <div class="banner_big_msg">
+          <div class="home_banner_big_msg_highlight"> <p>Superior consumer engagement</p>
+                      </div>
+        </div>
+	  <div class="banner_normal_txt">Digital business solutions.<br>Fortune 10 CPG enterprise. 50+ brands, 385 sites, a billion consumers	           <img src="/sites/all/themes/mindtree/images/readmore_arrow.png" width="9" height="9">
+</div>
+	  
+          
+	
+	 </a>
+               </div>
+      
+    </div>
+    <div class="banner_right home_banner_right"><div class="field-content"><img src="http://www.mindtree.com/sites/default/files/superior-consumer-engagement-banner.jpg" width="602" height="350" alt="Superior consumer engagement"></div></div>
+  </div>
+</li>
+ <li>
+  <div class="banner_container">
+    <div class="banner_left">
+      <div class="welcome_msg"><img src="/sites/all/themes/mindtree/images/welcome_to_possible.png" width="155" height="18"></div>
+      
+      <div class="home_banner_txt_cotainer">
+         	  <a href="http://mlocal.mindtree.com/insights/success-stories/software-just-works-global-tax-and-accounting-provider" class="readmore_arrow_big">
+	  <div class="banner_big_msg">
+          <div class="home_banner_big_msg_highlight"> <p>Software that<br>just works</p>
+                      </div>
+        </div>
+	  <div class="banner_normal_txt">Test automation. Global provider of tax and accounting software. Reduced 30% testing effort. Faster time to market	           <img src="/sites/all/themes/mindtree/images/readmore_arrow.png" width="9" height="9">
+</div>
+	  
+          
+	
+	 </a>
+               </div>
+      
+    </div>
+    <div class="banner_right home_banner_right"><div class="field-content"><img src="http://www.mindtree.com/sites/default/files/test-automation-home-banner.jpg" width="602" height="350" alt="Software that just works"></div></div>
+  </div>
+</li>
+ <li>
+  <div class="banner_container">
+    <div class="banner_left">
+      <div class="welcome_msg"><img src="/sites/all/themes/mindtree/images/welcome_to_possible.png" width="155" height="18"></div>
+      
+      <div class="home_banner_txt_cotainer">
+         	  <a href="http://mlocal.mindtree.com/insights/success-stories/giving-12-billion-citizens-unique-identity" class="readmore_arrow_big">
+	  <div class="banner_big_msg">
+          <div class="home_banner_big_msg_highlight"> Identity for <br>1.2 billion people                      </div>
+        </div>
+	  <div class="banner_normal_txt">Big data and analytics.<br> World’s largest citizen identification<br> program. Uncompromising security	           <img src="/sites/all/themes/mindtree/images/readmore_arrow.png" width="9" height="9">
+</div>
+	  
+          
+	
+	 </a>
+               </div>
+      
+    </div>
+    <div class="banner_right home_banner_right"><div class="field-content"><img src="http://www.mindtree.com/sites/default/files/big-data-and-analytics-home-banner.jpg" width="602" height="350" alt="Identity for 1.2 billion people"></div></div>
+  </div>
+</li>
+</ul>
+</div>
+  
+  
+  
+  
+  
+  
+</div>  
+  </div>
+</div>
+    </div>
+          
+  </div>
+</div>
+
+<div class="main_container">
+  <div class="middle_container">
+    <div class="left">     
+	  <p>Mindtree delivers technology services and accelerates growth for Global 1000 companies by solving complex business challenges with breakthrough technical innovations. Mindtree specializes in e-commerce, mobility, cloud enablement, digital transformation, business intelligence, data analytics, testing, infrastructure, EAI and ERP solutions.</p>
+<p>We are among the fastest growing technology firms globally with more than 200 clients and offices in 14 countries. We deliver amazing results: Helping 100 million passengers fly safely. Improving security and performance for one of the world’s largest e-commerce stores. Unifying brand messaging and improving engagement for one billion consumers.</p>
+<p>For Mindtree, “Welcome to possible” is more than a slogan - it reflects our approach to every engagement.</p>       
+     
+    </div>
+    <div class="right">
+       <h3>CLIENT SPEAK</h3>
+    <div class="hometestslider">
+    <ul id="hometestslider">
+<li>
+    <div class="home_slider_block">
+<div class="inner_vdo_title">Jeroen van der Heijden   <br>
+CTO, Raet</div>
+<img class="mindtree_mediapopup" title="Jeroen van der Heijden - CTO, Raet" rel="http://f12c12e672c4f4eda5f9-2701413e75eb804d843eaa499ec5f4e2.r26.cf1.rackcdn.com/Jeroen_van_der_Heijden_CTO_Raet.flv" mobile="http://e45e2baf2336aa39a31b-8018421996d71e02f20b5937f1cf14dd.r61.cf1.rackcdn.com/Jeroen_van_der_Heijden_CTO_Raet.mp4" src="http://www.mindtree.com/sites/all/themes/mindtree/images/home_slider_image1.jpg" alt="Jeroen van der Heijden - CTO, Raet">
+</div>
+</li>
+<li>
+    <div class="home_slider_block">
+<div class="inner_vdo_title">Mark Myers <br> Senior Director, Microsoft </div>
+<img class="mindtree_mediapopup" title="Mark Myers - Senior Director, Microsoft " rel="http://f12c12e672c4f4eda5f9-2701413e75eb804d843eaa499ec5f4e2.r26.cf1.rackcdn.com/Microsoft_Customer_Testimonials_New.flv" mobile="http://e45e2baf2336aa39a31b-8018421996d71e02f20b5937f1cf14dd.r61.cf1.rackcdn.com/Microsoft_Customer_Testimonials_Mobile.mp4" src="http://www.mindtree.com/sites/all/themes/mindtree/images/home_slider_image2.jpg" alt="Mark Myers - Senior Director, Microsoft">
+</div>
+</li>
+ <li>
+    <div class="home_slider_block">
+<div class="inner_vdo_title">Paul Kremer <br> Program Director for E-Commerce, Avis</div>
+<img class="mindtree_mediapopup" title="Paul Kremer - Program Director for E-Commerce, Avis" rel="http://f12c12e672c4f4eda5f9-2701413e75eb804d843eaa499ec5f4e2.r26.cf1.rackcdn.com/Paul%20Kremur7_1.flv" mobile="http://e45e2baf2336aa39a31b-8018421996d71e02f20b5937f1cf14dd.r61.cf1.rackcdn.com/Paul%20Kremur7_1.mp4" src="http://www.mindtree.com/sites/all/themes/mindtree/images/paul-kremer-home-thumb.jpg" alt="Paul Kremer - Program Director for E-Commerce, Avis">
+</div>
+</li>
+</ul>
+</div>   </div>
+   <!-- <div class="right">
+      <p class="h3_tag">MEET OUR MINDS</p>
+             <div class="region region-meet-our-minds">
+     <div id="block-views-home-page-our-minds" class="block block-views">
+
+    
+  <div class="content">
+ 
+    <div class="view view-home-page view-id-home_page view-display-id-our_minds view-dom-id-3c9eee26f0d9c7eea67c2d0ac6026c95">
+        
+  
+  
+      <div class="view-content">
+      <div class="meet_our_mind_slid_container"><ul id="meetOurMindsSlider"> 
+    
+    
+    
+    
+<li><div class="field-content"><img src="http://www.mindtree.com/sites/default/files/Anderw.jpg" width="255" height="153" alt="Andrew Melnyk" title="Andrew Melnyk" /></div><div class="info"><span class="name"><span class="field-content">Andrew Melnyk</span></span><span class="designation"> <div class="field-content">Mobile Software Developer</div></span></div><div class="meet_minds_para"><div class="field-content"><p>I have been given a chance to do live demos of mobile projects I’ve worked on – getting to see the results of our hard work and hearing feedback immediately has been very rewarding.</p>
+</div></div></li> 
+    
+    
+    
+    
+<li><div class="field-content"><img src="http://www.mindtree.com/sites/default/files/Alice.jpg" width="255" height="153" alt="Alice Aponasko" title="Alice Aponasko" /></div><div class="info"><span class="name"><span class="field-content">Alice Aponasko</span></span><span class="designation"> <div class="field-content">Mobile Software Developer</div></span></div><div class="meet_minds_para"><div class="field-content"><p>I came to Mindtree as a Java developer but fell in love with mobile and got to grow my knowledge and skills from basics to expertise in iOS and Android.  I love it!</p>
+</div></div></li> 
+    
+    
+    
+    
+<li><div class="field-content"><img src="http://www.mindtree.com/sites/default/files/Jason.JPG" width="255" height="153" alt="" /></div><div class="info"><span class="name"><span class="field-content">Jason Williams</span></span><span class="designation"> <div class="field-content">Senior UX/UI Developer</div></span></div><div class="meet_minds_para"><div class="field-content"><p>Design is more than just the visuals and art - It weaves into all aspects of a solution. It’s awesome to assist in creating world class user experiences. I'm proud to be a part of Mindtree and the USDC.</p>
+</div></div></li> 
+    
+    
+    
+    
+<li><div class="field-content"><img src="http://www.mindtree.com/sites/default/files/Scott.jpg" width="255" height="153" alt="Scott Purcell" title="Scott Purcell" /></div><div class="info"><span class="name"><span class="field-content">Scott Purcell</span></span><span class="designation"> <div class="field-content">UX/UI Developer</div></span></div><div class="meet_minds_para"><div class="field-content"><p>My team and I are dedicated to getting to the heart of our client’s users.  We keep those users at the center of every solution, and take applications from functional to invaluable.</p>
+</div></div></li> 
+    
+    
+    
+    
+<li><div class="field-content"><img src="http://www.mindtree.com/sites/default/files/raam_kumar.jpg" width="255" height="153" alt="Raam Kumar" title="Raam Kumar" /></div><div class="info"><span class="name"><span class="field-content">Raam Kumar</span></span><span class="designation"> <div class="field-content">Customer Acquisition</div></span></div><div class="meet_minds_para"><div class="field-content"><p>I ensure that my clients get the most effective and efficient infrastructure management solutions 24/7, to support their core business.</p>
+</div></div></li> 
+    
+    
+    
+    
+<li><div class="field-content"><img src="http://www.mindtree.com/sites/default/files/suresh_hp.jpg" width="255" height="153" alt="Suresh HP" title="Suresh HP" /></div><div class="info"><span class="name"><span class="field-content">Suresh HP</span></span><span class="designation"> <div class="field-content">Delivery Head</div></span></div><div class="meet_minds_para"><div class="field-content"><p>Delivery excellence has been my passion for the last 21 years. My team efficiently delivers mission critical applications, for the world's best enterprises in the travel, media and hospitality sectors.</p>
+</div></div></li> 
+    
+    
+    
+    
+<li><div class="field-content"><img src="http://www.mindtree.com/sites/default/files/priyanka_gupta.jpg" width="255" height="153" alt="Priyanka Gupta" title="Priyanka Gupta" /></div><div class="info"><span class="name"><span class="field-content">Priyanka Gupta</span></span><span class="designation"> <div class="field-content">Analytics Consultant</div></span></div><div class="meet_minds_para"><div class="field-content"><p>My passion for detail helped me successfully deliver meaningful analytics solutions, for our clients in the banking and capital markets industries.</p>
+</div></div></li> 
+    
+    
+    
+    
+<li><div class="field-content"><img src="http://www.mindtree.com/sites/default/files/meeta_budhrani.jpg" width="255" height="153" alt="Meeta Budhrani" title="Meeta Budhrani" /></div><div class="info"><span class="name"><span class="field-content">Meeta Budhrani</span></span><span class="designation"> <div class="field-content">Business Analyst, Travel</div></span></div><div class="meet_minds_para"><div class="field-content"><p>I am currently engineering the next generation passenger service system, for a global leader in travel systems.</p>
+</div></div></li> 
+    
+    
+    
+    
+<li><div class="field-content"><img src="http://www.mindtree.com/sites/default/files/salil_gupta.jpg" width="255" height="153" alt="Salil Gupta " title="Salil Gupta " /></div><div class="info"><span class="name"><span class="field-content">Salil Gupta </span></span><span class="designation"> <div class="field-content">Java Engineer</div></span></div><div class="meet_minds_para"><div class="field-content"><p>I have just joined Mindtree from campus and I am going to be an expert in Java technologies.</p>
+</div></div></li></ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  
+  </div>
+</div>
+    </div>
+        </div>-->
+  </div>
+  <div class="footer">
+      </div>
+  <div class="footer_bottom">
+  <div class="footer_soc_icons_plahold">
+                <div class="region region-footer-menu-right">
+     <div id="block-block-14" class="block block-block">
+
+    
+  <div class="content">
+ 
+    <div class="reach_us_at">Reach us at 
+<a href="http://mlocal.mindtree.com/contact-us" title="Contact us"><div class="reachus_footer"></div></a>
+</div>
+<div class="fot_social_icons">
+<div class="find_us">Find us at: </div>
+<a href="http://www.facebook.com/MindtreeLtd" target="_blank" rel="nofollow" title="Facebook"><div class="facebook_footer"></div></a>
+<a href="http://twitter.com/Mindtree_Ltd" title="Twitter" rel="nofollow" target="_blank"><div class="twitter_footer"></div></a>
+<a href="https://plus.google.com/+mindtree" rel="nofollow" target="_blank" title="Google plus"><div class="gplus_footer"></div></a>
+<a href="http://www.youtube.com/user/TheMindtreeLTD" rel="nofollow" title="YouTube" target="_blank"><div class="youtube_footer"></div></a>
+<a href="http://www.linkedin.com/company/mindtree-ltd-" rel="nofollow" title="LinkedIn" target="_blank"><div class="linkedin_footer"></div></a>
+</div>  
+  </div>
+</div>
+    </div>
+                 
+              <div class="fot_social_icons responsive_hidden">
+                <div class="find_us">Find us at: </div>
+                <a href="http://www.facebook.com/MindtreeLtd" target="_blank" title="Facebook" rel="nofollow">Facebook</a>
+                <a href="http://twitter.com/Mindtree_Ltd" title="Twitter" target="_blank" rel="nofollow">Twitter</a>
+                 <a href="https://plus.google.com/+mindtree" title="Googleplus" target="_blank" rel="nofollow">Google+</a>   
+                <a href="http://www.youtube.com/user/TheMindtreeLTD" title="YouTube" target="_blank" rel="nofollow">YouTube</a>
+                <a href="http://www.linkedin.com/company/mindtree-ltd-" title="LinkedIn" target="_blank" rel="nofollow">LinkedIn</a>
+                </div>               
+    </div>
+    <div class="footer_copyright">
+      <div class="copyright">   <div class="region region-footer-menu-left">
+     <div id="block-block-13" class="block block-block">
+
+    
+  <div class="content">
+ 
+    <p>Mindtree © 2014. All rights reserved.</p>  
+  </div>
+</div>
+    </div>
+</div>
+      <div class="footer_copyright_menu">
+          <div class="region region-footer-menu">
+     <div id="block-menu-menu-footer-menu" class="block block-menu">
+
+    <p class="h2_tag">Footer Menu</p>
+  
+  <div class="content">
+ 
+    <ul class="menu">
+<li class="first leaf"><a href="/terms-use">Terms of use</a></li>
+<li class="leaf"><a href="/privacy-policy">Privacy policy</a></li>
+<li class="leaf"><a href="/cookie-policy">Cookie policy</a></li>
+<li class="leaf"><a href="/tenders">Tenders</a></li>
+<li class="last leaf"><a href="/Sitemap">Sitemap</a></li>
+</ul>
+</div>
+</div>
+    </div>
+      </div>
+    </div>
+    	
+  </div>
+  <div class="footer_browse_details">  <div class="region region-footer-bottom">
+     <div id="block-block-15" class="block block-block">
+
+    
+  <div class="content">
+ 
+    <p>Welcome to possible and Mindtree are registered trademarks of Mindtree Ltd.</p>
+  
+  </div>
+</div>
+    </div>
+  
+  <p class="responsive_footer_rights">Mindtree © 2014. All rights reserved.</p>
+  </div>
+  <div class="video_popup">
+    <div class="video_popup_inner">
+      <div class="video_player_container">
+        <div class="video_player_container_close_button"></div>
+        <div id="mediaplayer">Video</div>
+      </div>
+    </div>
+  </div>
+  <div class="video_popup_background"></div>
+</div>
+ 
+   
+	     
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KCMD94" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KCMD94');</script><!-- End Google Tag Manager --><footer class="mw-footer">Powered by Moovweb</footer>
+</body>
+</html>

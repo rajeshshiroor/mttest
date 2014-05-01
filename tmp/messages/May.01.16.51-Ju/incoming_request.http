@@ -1,0 +1,10 @@
+GET /sites/all/themes/mindtree/images/readmore_arrow.png HTTP/1.1
+Host: mlocal.mindtree.com
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+Referer: http://mlocal.mindtree.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: __utma=135869165.1632272097.1384542620.1386608124.1389993302.4; __utmz=135869165.1389993302.4.3.utmcsr=mindtree.com|utmccn=(referral)|utmcmd=referral|utmcct=/company/mindtree-newsletters/possibilities-newsletter-dec2013; __utmv=135869165.anonymous%20user%3A|1=User%20roles=anonymous%20user=1; _ga=GA1.2.1632272097.1384542620
+

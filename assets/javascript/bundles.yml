@@ -1,0 +1,7 @@
+---
+- :output_file: main.js
+  :input_directories:
+    - main
+  :input_files:
+  - host_map.js
+  - cachify.js
